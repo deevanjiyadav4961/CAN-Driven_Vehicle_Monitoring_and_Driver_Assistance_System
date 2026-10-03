@@ -8,6 +8,8 @@ A three-node automotive-style network built on **NXP LPC2129 (ARM7TDMI-S)** boar
 ![Toolchain](https://img.shields.io/badge/toolchain-Keil%20uVision-lightgrey)
 
 ---
+<img width="600" height="800" alt="WhatsApp Image 2026-10-02 at 3 13 15 PM" src="https://github.com/user-attachments/assets/57e802ff-9f69-47b7-9e41-a550bc5887a3" />
+
 
 ## Table of Contents
 
