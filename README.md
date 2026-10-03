@@ -336,3 +336,6 @@ These are known trade-offs of the current version.
 | Nodes don't communicate | Bit-timing mismatch, missing termination, swapped CANH/CANL, or different `can_ids.h` across nodes |
 | Node freezes on first transmit | No other node is acknowledging frames on the bus (see CAN TX timeout item above) 
 <img width="1312" height="1199" alt="CAN Vehicle Monitoring System Diagram" src="https://github.com/user-attachments/assets/32291072-948c-4c3b-8398-4580278d80ad" />
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-10-02 at 3 13 08 PM" src="https://github.com/user-attachments/assets/a5c3e6c5-2d39-4c34-9af9-0c60561800e1" />
+
