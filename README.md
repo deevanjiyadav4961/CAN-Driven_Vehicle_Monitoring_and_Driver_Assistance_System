@@ -121,6 +121,8 @@ flowchart TB
 | Buzzer | P0.20 |
 | HC-SR04 TRIG / ECHO | P0.16 / P0.17 |
 | CAN1 | TD1 (dedicated), RD1 = P0.25 |
+<img width="1200" height="1600" alt="WhatsApp Image 2026-10-02 at 3 13 12 PM" src="https://github.com/user-attachments/assets/e5745c8c-b5f2-4a1a-a572-0745b04a79bd" />
+
 
 ### Fuel Node
 
