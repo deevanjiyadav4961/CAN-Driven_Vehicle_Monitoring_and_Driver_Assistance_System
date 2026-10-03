@@ -111,7 +111,7 @@ flowchart TB
 | Left indicator switch, EINT1 (active low) | P0.3 |
 | Right indicator switch, EINT2 (active low) | P0.7 |
 | CAN1 | TD1 (dedicated), RD1 = P0.25 |
-<img width="600" height="500" alt="WhatsApp Image 2026-10-02 at 3 13 13 PM" src="https://github.com/user-attachments/assets/7f8fa775-12e2-43ab-b4ac-cfed08b4d195" />
+<img width="600" height="800" alt="WhatsApp Image 2026-10-02 at 3 13 13 PM" src="https://github.com/user-attachments/assets/7f8fa775-12e2-43ab-b4ac-cfed08b4d195" />
 
 
 ### Indicator & Reverse Alert Node
@@ -123,7 +123,7 @@ flowchart TB
 | Buzzer | P0.20 |
 | HC-SR04 TRIG / ECHO | P0.16 / P0.17 |
 | CAN1 | TD1 (dedicated), RD1 = P0.25 |
-<img width="1200" height="1600" alt="WhatsApp Image 2026-10-02 at 3 13 12 PM" src="https://github.com/user-attachments/assets/e5745c8c-b5f2-4a1a-a572-0745b04a79bd" />
+<img width="800" height="1000" alt="WhatsApp Image 2026-10-02 at 3 13 12 PM" src="https://github.com/user-attachments/assets/e5745c8c-b5f2-4a1a-a572-0745b04a79bd" />
 
 
 ### Fuel Node
