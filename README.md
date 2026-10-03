@@ -111,6 +111,8 @@ flowchart TB
 | Left indicator switch, EINT1 (active low) | P0.3 |
 | Right indicator switch, EINT2 (active low) | P0.7 |
 | CAN1 | TD1 (dedicated), RD1 = P0.25 |
+<img width="800" height="600" alt="WhatsApp Image 2026-10-02 at 3 13 13 PM" src="https://github.com/user-attachments/assets/7f8fa775-12e2-43ab-b4ac-cfed08b4d195" />
+
 
 ### Indicator & Reverse Alert Node
 
