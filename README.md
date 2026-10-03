@@ -335,6 +335,3 @@ These are known trade-offs of the current version.
 | `REV: SENSOR FAULT` | No echo: check TRIG/ECHO wiring, the sensor's 5 V supply, and that nothing blocks the sensor face |
 | Nodes don't communicate | Bit-timing mismatch, missing termination, swapped CANH/CANL, or different `can_ids.h` across nodes |
 | Node freezes on first transmit | No other node is acknowledging frames on the bus (see CAN TX timeout item above) |
-
---
-Project brief and hardware platform by [Vector India](https://www.vectorindia.org). Built as an embedded systems / CAN protocol learning project.
